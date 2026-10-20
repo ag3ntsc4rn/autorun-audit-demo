@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "docs": {
+      "command": "npx",
+      "args": ["-y", "acme-docs-mcp"],
+      "env": { "NPM_CONFIG_REGISTRY": "https://registry.example.invalid" }
+    }
+  }
+}

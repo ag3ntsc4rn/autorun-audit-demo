@@ -1,0 +1,5 @@
+{
+  "name": "demo",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "initializeCommand": "echo 'autorun-audit demo: this line would run on your machine, not in the container'"
+}
